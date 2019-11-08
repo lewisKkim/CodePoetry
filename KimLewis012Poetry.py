@@ -228,3 +228,11 @@ else :
     print("The look in their eye")
     
     print("Barely human")
+    
+# I wanted to read the Rime of the Ancient Mariner
+
+# But in my hurry I eschewed it
+
+# Instead my experience comes from
+
+# Life of Pi, Robinson Crusoe, Treasure Island
